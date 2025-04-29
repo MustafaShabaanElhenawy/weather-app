@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Weather Forecast</title>
+        <!-- font awasome -->
+        <link rel="stylesheet" href="./CSS/all.min.css" />
+        <!-- bootstrap style sheet -->
+        <link rel="stylesheet" href="./CSS/bootstrap.min.css" />
+        <!-- main style sheet -->
+        <link rel="stylesheet" href="./CSS/style.css" />
+
+</head>
+<body>
+
+  <!-- Navbar -->
+  <nav class="navbar navbar-dark px-5">
+    <a class="navbar-brand text-white" href="#">
+      <img src="https://cdn-icons-png.flaticon.com/512/1116/1116453.png" width="40" /> WeatherApp
+    </a>
+  </nav>
+
+  <!-- Search Box -->
+  <div class="container search-box text-center">
+    <div class="input-group mb-3">
+      <input type="text" class="form-control" placeholder="Search city..." id="searchInput">
+    </div>
+  </div>
+
+  <!-- Weather Forecast -->
+  <div class="container">
+    <div class="row justify-content-center" id="weatherContainer"></div>
+  </div>
+
+
+ <!-- bootstrap JS file -->
+ <script src="./JS/bootstrap.bundle.min.js"></script> 
+ <script src="./JS/index.js"></script>
+</body>
+</html>
