@@ -31,7 +31,7 @@ https://weather-app-drab-eight.vercel.app
 
 Contact
 
-- GitHub: https://github.com/mostafaelhenawy
+- GitHub: https://github.com/MustafaShabaanElhenawy
 
-- LinkedIn: https://www.linkedin.com/in/mostafaelhenawy
+- LinkedIn: www.linkedin.com/in/mustafa-elhenawy-31577b292
 
