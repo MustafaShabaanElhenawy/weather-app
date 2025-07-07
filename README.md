@@ -22,14 +22,16 @@ Users can search for any city and get instant weather updates as they type.
 - WeatherAPI
 
 ## How to Run the Project  
-```bash
-git clone https://github.com/mostafaelhenawy/weather-app.git
-cd weather-app
-open index.html
+
+- git clone https://github.com/mostafaelhenawy/weather-app.git
+- cd weather-app
+- open index.html
+
+---
 
 Contact
 
-GitHub: <a href="https://github.com/mostafaelhenawy" target="_blank">https://github.com/mostafaelhenawy</a>
+- GitHub: <a href="https://github.com/mostafaelhenawy" target="_blank">https://github.com/mostafaelhenawy</a>
 
-LinkedIn: <a href="https://www.linkedin.com/in/mostafaelhenawy" target="_blank">https://www.linkedin.com/in/mostafaelhenawy</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/mostafaelhenawy" target="_blank">https://www.linkedin.com/in/mostafaelhenawy</a>
 
