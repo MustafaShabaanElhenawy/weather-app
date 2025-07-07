@@ -6,7 +6,7 @@ A responsive weather forecast web application that displays a real-time 3-day fo
 Users can search for any city and get instant weather updates as they type.
 
 ## Live Demo  
-<a href="https://weather-app-drab-eight.vercel.app" target="_blank">https://weather-app-drab-eight.vercel.app</a>
+https://weather-app-drab-eight.vercel.app
 
 ## Features  
 - Real-time 3-day weather forecast  
@@ -31,7 +31,7 @@ Users can search for any city and get instant weather updates as they type.
 
 Contact
 
-- GitHub: <a href="https://github.com/mostafaelhenawy" target="_blank">https://github.com/mostafaelhenawy</a>
+- GitHub: https://github.com/mostafaelhenawy
 
-- LinkedIn: <a href="https://www.linkedin.com/in/mostafaelhenawy" target="_blank">https://www.linkedin.com/in/mostafaelhenawy</a>
+- LinkedIn: https://www.linkedin.com/in/mostafaelhenawy
 
