@@ -5,8 +5,7 @@
 A responsive weather forecast web application that displays a real-time 3-day forecast using the WeatherAPI.  
 Users can search for any city and get instant weather updates as they type.
 
-## Live Demo  
-https://weather-app-drab-eight.vercel.app
+---
 
 ## Features  
 - Real-time 3-day weather forecast  
@@ -15,11 +14,15 @@ https://weather-app-drab-eight.vercel.app
 - Clean and modern UI  
 - Fully responsive design
 
+  ---
+
 ## Technologies Used  
 - HTML  
 - CSS (Bootstrap)  
 - JavaScript  
 - WeatherAPI
+
+  ---
 
 ## How to Run the Project  
 
@@ -29,7 +32,7 @@ https://weather-app-drab-eight.vercel.app
 
 ---
 
-Contact
+## Contact
 
 - GitHub: https://github.com/MustafaShabaanElhenawy
 
