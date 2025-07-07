@@ -23,7 +23,7 @@ https://weather-app-drab-eight.vercel.app
 
 ## How to Run the Project  
 
-- git clone https://github.com/mostafaelhenawy/weather-app.git
+- git clone https://github.com/MustafaShabaanElhenawy/weather-app.git
 - cd weather-app
 - open index.html
 
